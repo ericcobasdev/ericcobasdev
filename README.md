@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Eric Cobas
 
-<!--
-**ericcobasdev/ericcobasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 PHP / Laravel Developer | Backend | Cybersecurity Background
 
-Here are some ideas to get you started:
+I am a Full-Stack Developer specialized in Laravel, with a strong background in IT infrastructure and cybersecurity. I focus on building secure, scalable and production-ready web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- PHP / Laravel
+- MySQL
+- JavaScript / Vue.js
+- Inertia.js
+- Tailwind CSS
+- REST APIs
+- Git & GitHub
+
+---
+
+## 🧠 What I bring
+
+- Secure backend development mindset
+- Real-world application design
+- Experience with authentication, roles and permissions
+- Strong debugging and problem-solving skills
+- Background in cybersecurity and network administration
+
+---
+
+## 📌 Featured Project
+
+### 🔧 Ticket Management System
+👉 https://github.com/ericcobasdev/ticket-app-laravel
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/ericcobas
