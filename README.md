@@ -25,6 +25,8 @@ I am a Full-Stack Developer specialized in Laravel, with a strong background in 
 - Experience with authentication, roles and permissions
 - Strong debugging and problem-solving skills
 - Background in cybersecurity and network administration
+- Experience building full-stack applications with Laravel + Vue
+- Understanding of secure application design and best practices
 
 ---
 
@@ -38,3 +40,9 @@ I am a Full-Stack Developer specialized in Laravel, with a strong background in 
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/ericcobas
+
+## 🚀 Currently
+
+Actively looking for opportunities as a PHP / Laravel Developer.
+
+Open to remote or on-site roles in Spain.
